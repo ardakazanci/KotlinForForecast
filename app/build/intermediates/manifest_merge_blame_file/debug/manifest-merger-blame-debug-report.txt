@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.antonioleiva.weatherapp"
+3    package="com.ardakazanci.weatherapp"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -10,37 +10,41 @@
 9        android:targetSdkVersion="28" />
 9-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
 10
-11    <application
-11-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:5-19:19
-12        android:allowBackup="true"
-12-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-13-->[com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/3019f099c977937f446eda77e18de616/support-compat-28.0.0/AndroidManifest.xml:22:18-91
-14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:7:9-43
-16        android:label="@string/app_name"
-16-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:8:9-41
-17        android:testOnly="true"
-18        android:theme="@style/AppTheme" >
-18-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:9:9-40
-19        <activity
-19-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:10:9-18:20
-20            android:name="com.antonioleiva.weatherapp.activities.MainActivity"
-20-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:11:13-52
-21            android:label="@string/app_name" >
-21-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:12:13-45
-22            <intent-filter>
-22-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:17-68
-23-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:17-76
-25-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28    </application>
-29
-30</manifest>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:7:5-21:19
+14        android:allowBackup="true"
+14-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/3019f099c977937f446eda77e18de616/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:10:9-41
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:11:9-40
+21        <activity
+21-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:12:9-20:20
+22            android:name="com.ardakazanci.weatherapp.ui.activities.MainActivity"
+22-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:13:13-81
+23            android:label="@string/app_name" >
+23-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:13-45
+24            <intent-filter>
+24-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:17-68
+25-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:18:17-76
+27-->/Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

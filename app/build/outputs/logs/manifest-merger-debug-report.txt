@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/31143847e3e91d3ce2d0872f15948323/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/1a32bab43ab2b6b00cafd34b6b429037/anko-common-0.10.8/AndroidManifest.xml:2:1-13:12
 MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/3d0545dff286e583f2fc2b28fadf6e0f/anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
@@ -34,25 +34,29 @@ MERGED from [com.android.support:interpolator:28.0.0] /Users/ardakazanci/.gradle
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/8d14fe70acf957bbd1f4200239a8096b/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/a04730e4fb2209e7a00b823a7eeb3958/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/b74760db00d3f7c5bb4bb45f9a853872/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:11-48
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:11-47
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:7:5-21:19
 MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/1a32bab43ab2b6b00cafd34b6b429037/anko-common-0.10.8/AndroidManifest.xml:11:5-20
 MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/1a32bab43ab2b6b00cafd34b6b429037/anko-common-0.10.8/AndroidManifest.xml:11:5-20
 MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/3d0545dff286e583f2fc2b28fadf6e0f/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
@@ -64,29 +68,29 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ardakazanci/
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/ardakazanci/.gradle/caches/transforms-2/files-2.1/3019f099c977937f446eda77e18de616/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:9:9-40
-activity#com.antonioleiva.weatherapp.activities.MainActivity
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:10:9-18:20
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.ardakazanci.weatherapp.ui.activities.MainActivity
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:12:9-20:20
 	android:label
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:12:13-45
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:13-45
 	android:name
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:11:13-52
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:13:13-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:17-68
 	android:name
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ardakazanci/Desktop/KotlinForAndroidDeveloperson_Ebook/chapter_3/app/src/main/AndroidManifest.xml
